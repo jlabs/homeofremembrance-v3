@@ -1,0 +1,9 @@
+/*the top navigation bar background is white without this*/
+.navbar-inner { filter:none !important; }
+/*set the nav bar colour background to dark grey*/
+.form-horizontal 
+{ 
+	background:rgb(201,173,71) !important; 
+}
+/*transparent yellow background*/
+.row { filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#ddC9AD47', endColorstr='#ddC9AD47'); }
